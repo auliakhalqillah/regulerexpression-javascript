@@ -1,7 +1,7 @@
 // Using reguler expression
 // Written by Aulia Khalqillah
 // email : auliakhalqillah.mail@gmail.com
-let input = 'abcdef123G';
+let input = 'inipassword123A';
 var num = /[\d+]/g;
 let lowercase = /[a-z]/g;
 let uppercase = /[A-Z]/g;
