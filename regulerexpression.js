@@ -1,4 +1,6 @@
-// Using regex
+// Using reguler expression
+// Written by Aulia Khalqillah
+// email : auliakhalqillah.mail@gmail.com
 let input = 'abcdef123G';
 var num = /[\d+]/g;
 let lowercase = /[a-z]/g;
