@@ -2,7 +2,7 @@
 Using reguler expression in javascript. For an example, the RegEx is applied to set a password.
 # Example
 The criteria of password has to at least:
-1. Minimum 8 character
+1. Minimum 8 characters
 2. Minimum 3 digits
 3. and Minimum 1 uppercase
 
